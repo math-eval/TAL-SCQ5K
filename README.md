@@ -1,8 +1,6 @@
----
-license: mit
----
 
-# Dataset Card for Dataset Name
+# TAL-SCQ5K
+
 
 ## Dataset Description
 
