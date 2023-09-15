@@ -60,10 +60,10 @@ The text in TAL-SCQ5K-EN is in English and TAL-SCQ5K-CN  is in Chinese.
 
 ### Data Fields
 
-* "dataset_name": identification of the source dataset name from which TAL-SCQ5K-EN/TAL-SCQ5K-CN has been created, use only for inner of TAL education company, please ignore.
-* "dataset_version": identification of the source dataset version from which TAL-SCQ5K-EN/TAL-SCQ5K-CN has been created, use only for inner of TAL education company, please ignore.
-* "qid": identification of local id of the question in the source dataset from which TAL-SCQ5K-EN/TAL-SCQ5K-CN has been created, use only for inner of TAL education company, please ignore.
-* "queId": identification of global id of the question, use only for inner of TAL education company, please ignore.
+* "dataset_name": identification of the source dataset name from which TAL-SCQ5K-EN/TAL-SCQ5K-CN has been created, use only for inner of TAL education group, please ignore.
+* "dataset_version": identification of the source dataset version from which TAL-SCQ5K-EN/TAL-SCQ5K-CN has been created, use only for inner of TAL education group, please ignore.
+* "qid": identification of local id of the question in the source dataset from which TAL-SCQ5K-EN/TAL-SCQ5K-CN has been created, use only for inner of TAL education group, please ignore.
+* "queId": identification of global id of the question, use only for inner of TAL education group, please ignore.
 * "competition_source_list": identification of math competitions in which the questions appeared, if have been logged.
 * "difficulty": difficulty level of the questions, value ranged from 0 to 4
 * "qtype": question type, valued as "single_choice" for all the questions in this dataset indicates that all the questions are multiple-choice questions with unique ground-truth answer.
